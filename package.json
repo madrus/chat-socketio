@@ -1,0 +1,18 @@
+{
+  "name": "RealTimeWebChat",
+  "version": "0.1.0",
+  "description": "Real time web chat",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "latest",
+    "pug": "latest"
+  },
+  "author": "Krasimir Tsonev",
+  "devDependencies": {
+    "babel-eslint": "^6.0.5",
+    "eslint": "^2.13.1",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-react": "^5.2.2",
+    "jscs": "^3.0.4"
+  }
+}
